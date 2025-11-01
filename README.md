@@ -1,4 +1,4 @@
-<h1> Resoluções de Desafios e Exercicios.</h1>
+<h1> Resoluções de Desafios e Exercícios.</h1>
 
 <h2> Sobre </h2>
 <p> Projeto utilizado durantes os estudos.</p>
